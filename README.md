@@ -25,7 +25,6 @@
 
 3. **Open Ports Found**
 
-   * List the open ports here (replace with actual data):
 
      ```
      22/tcp - SSH  
@@ -33,7 +32,6 @@
      443/tcp - HTTPS  
      ```
 
-   *(Update this section based on your actual results)*
 
 4. **Packet Capture with Wireshark**
 
